@@ -1,5 +1,3 @@
-# car-rental-system
-
 # Car Rental System Project Documentation
 
 ## Requirements
